@@ -1,7 +1,7 @@
-## Cryptography
+## CosmosSDK/Tendermint cryptography and data structures
 
-My review of cryptography and data structures used in Cosmos/Tendermint.
-Work done for the Polkadot Blockchain Academy event at Cambdrige in July 2022.
+My review of cryptography and data structures used in Cosmos/Tendermint.  
+Work done for the Polkadot Blockchain Academy event at Cambdrige in July 2022.  
 This review is not exhaustive, and can be enhanced.
 
 ---
